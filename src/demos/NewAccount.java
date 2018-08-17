@@ -103,6 +103,6 @@ public class NewAccount {
         System.out.println("CONFIRMATION: " + success);
 
         //close browser
-        //driver.close();
+        driver.close();
     }
 }
