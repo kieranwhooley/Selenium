@@ -22,7 +22,9 @@ public class Login {
         DashboardPage dashboardPage = new DashboardPage(driver);
         String validMessage = dashboardPage.getConfirmationMessage();
         String dashboardTitle = dashboardPage.pageTitle();
-        
+
+        System.out.println(validMessage);
+        System.out.println(dashboardTitle);
         Assertions.assertTrue(validMessage.contains("Logged"));
         Assertions.assertTrue(dashboardTitle.contains("Account"));
     }
