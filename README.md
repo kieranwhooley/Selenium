@@ -13,4 +13,3 @@ Here is a link to the course:
 [Cucumber](https://cucumber.io/)
 
 [Page Object Model] (https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
-
