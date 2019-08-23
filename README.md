@@ -13,3 +13,7 @@ Here is a link to the course:
 [Cucumber](https://cucumber.io/)
 
 [Page Object Model](https://www.toptal.com/selenium/test-automation-in-selenium-using-page-object-model-and-page-factory)
+
+# Certificate of Completion
+
+![Certificate](/images/Certificate_of_Completion.jpg)
